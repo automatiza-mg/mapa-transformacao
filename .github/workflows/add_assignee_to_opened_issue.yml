@@ -1,5 +1,5 @@
 # This uses a reusable workflow
-name: Add assignee to closed issue
+name: Add assignee to opened issue
 
 on:
   issues:
